@@ -1,0 +1,17 @@
+{
+  "name": "Solved",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+
+  
+}
+
+  
